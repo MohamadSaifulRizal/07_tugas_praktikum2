@@ -5,6 +5,6 @@ import 'package:flutter/widgets.dart';
 
 void main() {
   runApp(MaterialApp(
-    home: HomePage(), // Langsung gunakan HomePage sebagai halaman utama
+    home: HomePage(), 
   ));
 }
